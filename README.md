@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bethi
 - 👀 I’m interested in web Development
 - 🌱 I’m currently learning software Engineering
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate with Front End Developers...
 - 📫 How to reach me twitter @bethiTesfa
 
 <!---
